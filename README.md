@@ -4,7 +4,7 @@ Object Oreinted Programming in Javascript
 ------
 ### 1.) Polymorphism
 
-```// Animal methods
+``` javascript // Animal methods
 Animal.prototype.talk = function talk() {
   console.log('?')
 }
@@ -67,7 +67,7 @@ You can define a default value for an argument if it is not passed.
 Argument order becomes irrelevant and you just name which arguments you want to pass to the function.
 
 Logic for method overloading
-```
+``` javascript
 // method declaration for .data()
  data: function(key, value) {
      if (arguments.length === 0) {
@@ -95,3 +95,7 @@ Logic for method overloading
  ### 2.) Abstraction in Javascript
  
  <a href="http://www.yusufaytas.com/achieving-abstraction-in-javascript/">click here</a>
+ 
+ Design pattern in ES6 Javascript
+ -----
+ <a href="https://joshbedo.github.io/JS-Design-Patterns/"> Click here </a>
