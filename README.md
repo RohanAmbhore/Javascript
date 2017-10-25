@@ -99,3 +99,7 @@ Logic for method overloading
  Design pattern in ES6 Javascript
  -----
  <a href="https://joshbedo.github.io/JS-Design-Patterns/"> Click here </a>
+ 
+ ### 3.) Event lifecyle
+ 
+<a href="http://www.breck-mckye.com/blog/2014/04/document-loading-and-DOM-lifecycle-events/">click here</a>
