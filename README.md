@@ -103,3 +103,7 @@ Logic for method overloading
  ### 3.) Event lifecyle
  
 <a href="http://www.breck-mckye.com/blog/2014/04/document-loading-and-DOM-lifecycle-events/">click here</a>
+
+### 4.) Js Optimzation
+
+<a href="https://www.upwork.com/hiring/development/11-tips-to-optimize-javascript-and-improve-website-loading-speeds/"> Click </a>
